@@ -16,4 +16,5 @@
 
 ## Abra um PullRequest com suas alterações
 
-Curso interessante, bastante conteudo
+
+agora sim, bem interessante e bastante conteudo
